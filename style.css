@@ -23,6 +23,7 @@ h1{
     font-size: 5rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:#00f;
+    cursor:context-menu;
 }
 
 h1:nth-child(2){
